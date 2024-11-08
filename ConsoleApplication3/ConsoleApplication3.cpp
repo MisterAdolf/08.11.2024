@@ -28,6 +28,10 @@ public:
     }
 };
 
+    void setAge(const int age) {
+        this->age = age;
+    }
+};
 
 int main()
 {
